@@ -4,10 +4,14 @@ Hi, I'm Nagendra Babu.
 
 Welcome to my Data Analytics Portfolio repository.
 
+## About Me
+
+Aspiring Data Analyst with experience in data analysis, reporting, process improvement, and business insights. Skilled in SQL, Excel, Power BI, Tableau, and Python.
+
 ## Skills
 
 - SQL
-- Excel
+- Advanced Excel
 - Power BI
 - Tableau
 - Python
@@ -15,19 +19,27 @@ Welcome to my Data Analytics Portfolio repository.
 - Data Cleaning
 - Business Analytics
 
-## Portfolio Structure
+## Portfolio Projects
 
-📂 SQL-Projects
+### SQL Projects
+- Sales Analysis
+- Customer Churn Analysis
+- Retail Database Analysis
 
-📂 Excel-Projects
+### Excel Projects
+- Sales Dashboard
+- KPI Tracker
+- Data Cleaning
 
-📂 PowerBI-Projects
+### Power BI Projects
+- Sales Performance Dashboard
+- Customer Insights Dashboard
+- Financial Dashboard
 
-📂 Tableau-Projects
-
-📂 Python-Projects
-
-📂 Certificates
+### Python Projects
+- Exploratory Data Analysis
+- Customer Analytics
+- Sales Forecasting
 
 ## Certifications
 
